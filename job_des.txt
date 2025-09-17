@@ -1,0 +1,14 @@
+Job Title: Software Developer
+
+We are looking for a Software Developer with experience in:
+- Python, Java, SQL
+- Web development: HTML, CSS, JavaScript
+- Machine Learning and Data Analysis
+- Problem-solving and teamwork
+- Excellent communication skills
+
+Responsibilities:
+- Develop and maintain software applications
+- Collaborate with team members to design efficient solutions
+- Write clean, maintainable, and well-documented code
+- Participate in code reviews and testing
